@@ -29,6 +29,7 @@ defmodule AnalysisBackend.Mixfile do
   # Type "mix help deps" for more examples and options
   defp deps do
    [{:postgrex, ">= 0.0.0"},
-   {:ecto, "~> 2.0.0"}]
+    {:exrm, "~> 1.0.6"},
+    {:ecto, "~> 2.0.0"}]
   end
 end
