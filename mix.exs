@@ -33,3 +33,4 @@ defmodule AnalysisBackend.Mixfile do
     {:ecto, "~> 2.0.0"}]
   end
 end
+
